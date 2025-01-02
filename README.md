@@ -21,7 +21,7 @@ Understanding the traits of successful Netflix Originals can empower Netflix to 
 
 
 
-[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NetflixOriginal.png)
+[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Original%20Report.png)
 
 
 ---
