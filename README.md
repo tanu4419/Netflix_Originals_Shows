@@ -17,10 +17,11 @@ Understanding the traits of successful Netflix Originals can empower Netflix to 
 - Bar Charts & Graphs: Used to illustrate trends and comparisons visually.
 - Excel Functions: COUNT, AVERAGE, VLOOKUP, MAX, MIN, and filtering techniques were employed to analyze the data.
 
-[Datasets Used](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NetflixOriginal.png)
+[Datasets Used](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NetflixOriginals.csv)
 
 
-[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Originate%20Report.png)
+
+[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NetflixOriginal.png)
 
 
 ---
