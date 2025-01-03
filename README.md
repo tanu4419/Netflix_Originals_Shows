@@ -79,7 +79,7 @@ This analysis of Netflix Originals highlights important patterns related to genr
 Future work could involve more in-depth analysis using advanced machine learning models to predict the success of upcoming Netflix Originals based on these identified characteristics.
 
 ## Dashboard
-[<img src="https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Original%20Report.png" alt="myql-logo" width="1700" height="500"/>](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Original%20Report.png) &nbsp;
+[<img src="https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Original%20Report%20(2).png" alt="myql-logo" width="1700" height="500"/>](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Original%20Report%20(2).png) &nbsp;
 
 
 
