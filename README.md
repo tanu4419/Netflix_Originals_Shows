@@ -15,7 +15,7 @@ Understanding the traits of successful Netflix Originals can empower Netflix to 
 
 - Pivot Tables: Used for data aggregation and to gain quick insights from large datasets.
 - Bar Charts & Graphs: Used to illustrate trends and comparisons visually.
-- Excel Functions: COUNT, AVERAGE, VLOOKUP, MAX, MIN, and filtering techniques were employed to analyze the data.
+- Excel Functions: COUNT, AVERAGE, MAX, MIN, and filtering techniques were employed to analyze the data.
 
 [Datasets Used](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NetflixOriginals.csv)
 
