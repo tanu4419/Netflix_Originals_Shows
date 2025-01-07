@@ -21,7 +21,7 @@ Understanding the traits of successful Netflix Originals can empower Netflix to 
 
 
 
-[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NrtflixOriginals.png)
+[Netflix Originals Data Analysis Report - Excel](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Originals%20Dashboard.png)
 
 
 ---
@@ -79,7 +79,7 @@ This analysis of Netflix Originals highlights important patterns related to genr
 Future work could involve more in-depth analysis using advanced machine learning models to predict the success of upcoming Netflix Originals based on these identified characteristics.
 
 ## Dashboard
-[<img src="https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NrtflixOriginals.png" alt="myql-logo" width="1700" height="500"/>](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/NrtflixOriginals.png) &nbsp;
+[<img src="https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Originals%20Dashboard.png" alt="myql-logo" width="1700" height="500"/>](https://github.com/tanu4419/Netflix_Originals_Shows/blob/main/Netflix%20Originals%20Dashboard.png) &nbsp;
 
 
 
