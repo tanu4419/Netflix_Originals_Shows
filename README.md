@@ -1,4 +1,4 @@
-# <p align="center">Netflix Originals Data Analysis</p>
+# <p align="center">Netflix Originals Shows Data Analysis</p>
 ![X_Discovery_Hub_Netflix_hero](https://github.com/user-attachments/assets/a790d5ac-e7f1-4781-b8c5-50f0a69b44c0)
 ## Project Overview:
 
